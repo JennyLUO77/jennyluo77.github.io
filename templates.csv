@@ -1,0 +1,8 @@
+"tid","text"
+"1","Based on the survey, it can be found that the most popular Airbnb listing in Hong Kong in 2023 was the {name}, which received the most {number_of_reviews} reviews,and you can search it by id:{id}"
+"2","What is concerned the most is that the price of this listing is {price},with a {room_type} room type."
+"3","This airbnb listing is owned by {host_name},which is located in community {neighbourhood}."
+"4","For this room type,its average minimum night that the customers need to book is {avg(minimum_night)}."
+"5","You can also take a look at the listings that sitting in the same price range like {name} and {name}."
+"6","The Most expensive room name is {name}, the district is nearby {neighbourhood}, the price is {price}."
+"7","The listing {name} has just received the newest reviews,and it got the {reviews_per_month} comments from customers per month."
